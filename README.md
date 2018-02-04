@@ -11,7 +11,7 @@ ESQUELETO PARA COMENZAR EN SYMFONY 4.
 
 ## Uso
 
-Set environment variables in .env; you'll need a db, a mailer and recaptcha keys. Then run
+Establecer variables de entorno en .env; necesitarás una base de datos mysq
 
 	$ php bin/console doctrine:database:create
 	$ php bin/console doctrine:migrations:migrate
