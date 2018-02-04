@@ -11,7 +11,7 @@ ESQUELETO PARA COMENZAR EN SYMFONY 4.
 
 ## Uso
 
-Establecer variables de entorno en .env; necesitarás una base de datos mysq
+Establecer variables de entorno en .env; necesitarás una base de datos mysql
 
 	$ php bin/console doctrine:database:create
 	$ php bin/console doctrine:migrations:migrate
