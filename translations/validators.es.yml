@@ -1,0 +1,4 @@
+user:
+  exists: Este correo electrónico ya ha sido utilizado
+  password:
+    must_be_complex: La contraseña debe contener al menos un número, un carácter en minúscula y un carácter en mayúscula.

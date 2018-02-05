@@ -1,0 +1,38 @@
+site:
+  name: Mi sitio web
+
+button:
+  save: Guardar
+user:
+  email: Correo electrónico
+  password:
+    first: Contraseña
+    second: Repetir contraseña
+  name: Nombre
+
+  not-found: Usuario no encontrado
+
+  edit: Editar
+  forgot-password: Olvidé mi contraseña
+  login: Iniciar sesión
+  logout: Salir
+  no-account: No tengo una cuenta
+  reset-password: Resetear contraseña
+  sign-up: Registrarse
+  update:
+    success: Tu cuenta ha sido actualizada
+    error: Por favor, intentelo de nuevo más tarde
+
+  welcome: Bienvenido! Haz iniciado sesión con éxito
+  yes-account: Ya tengo una cuenta
+
+  activation-link: Se ha enviado un enlace para activar su cuenta a su bandeja de entrada. ¡Echale un vistazo!
+  request-password-link: Se ha enviado un enlace para restablecer su contraseña a su bandeja de entrada. ¡Echale un vistazo!
+  mailer:
+    activation.html: 'Click <a href="%activationUrl%" target="_blank">aqui</a> para activar tu cuenta'
+    activation.txt: 'Haga clic en el siguiente enlace para activar su cuenta %activationUrl%'
+    reset-password.html: 'Click <a href="%resetPasswordUrl%" target="_blank">aqui</a> para restablecer tu contraseña'
+    reset-password.txt: 'Haga clic en el siguiente enlace para restablecer su contraseña %resetPasswordUrl%'
+
+captcha.wrong: Por favor, demuéstrame que no eres un robot
+rememberme: Recuérdame
